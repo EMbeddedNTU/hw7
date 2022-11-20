@@ -23,6 +23,8 @@ b09901058 邱奕翔
 
 ## Snapshots
 - Original data on time domain and frequency domain
-<img src="docs/comb1.png" width="350px"> <img src="docs/comb2.png" width="350px">
+
+<img src="docs/comb1.png" width="300px"> <img src="docs/comb2.png" width="300px">
 - Filtered with high-pass filter
-<img src="docs/comb5.png" width="350px"> <img src="docs/comb6.png" width="350px">
+  
+<img src="docs/comb5.png" width="300px"> <img src="docs/comb6.png" width="300px">
