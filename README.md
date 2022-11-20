@@ -19,6 +19,12 @@ b09901058 邱奕翔
 
 5, Add `#define __CC_ARM` to the file arm_bitreversal2.S.
 
-4, You can now build the program.
+6, You can now build the program.
 
 ## Snapshots
+- Original data on time domain and frequency domain
+<img src="docs/comb1.png" height="350px">
+<img src="docs/comb2.png" height="350px">
+- Filtered with high-pass filter
+<img src="docs/comb5.png" height="350px">
+<img src="docs/comb6.png" height="350px">
